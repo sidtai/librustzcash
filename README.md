@@ -1,7 +1,7 @@
 # Zcash Rust crates
 
 This repository contains a (work-in-progress) set of Rust crates for
-working with Zcash.
+working with Zcash. This is a fork made by Sid Tai.
 
 ## Security Warnings
 
