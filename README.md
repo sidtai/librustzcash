@@ -3,6 +3,8 @@
 This repository contains a (work-in-progress) set of Rust crates for
 working with Zcash.
 
+This repo is forked by Sid Tai.
+
 ## Security Warnings
 
 These libraries are currently under development and have not been fully-reviewed.
